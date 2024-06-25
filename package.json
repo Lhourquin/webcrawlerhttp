@@ -1,0 +1,24 @@
+{
+  "name": "webscrawlerhttp",
+  "version": "1.0.0",
+  "description": "Web Scrawler with HTTP",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lhourquin/webscrawlerhttp.git"
+  },
+  "keywords": [
+    "http",
+    "scrawler",
+    "web"	
+  ],
+  "author": "lucalhost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lhourquin/webscrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/Lhourquin/webscrawlerhttp#readme"
+}
