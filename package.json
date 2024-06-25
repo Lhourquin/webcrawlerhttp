@@ -13,12 +13,15 @@
   "keywords": [
     "http",
     "scrawler",
-    "web"	
+    "web"
   ],
   "author": "lucalhost",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Lhourquin/webscrawlerhttp/issues"
   },
-  "homepage": "https://github.com/Lhourquin/webscrawlerhttp#readme"
+  "homepage": "https://github.com/Lhourquin/webscrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
