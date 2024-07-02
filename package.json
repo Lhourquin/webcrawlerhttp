@@ -1,0 +1,30 @@
+{
+  "name": "webscrawlerhttp",
+  "version": "1.0.0",
+  "description": "Web Scrawler with HTTP",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lhourquin/webscrawlerhttp.git"
+  },
+  "keywords": [
+    "http",
+    "scrawler",
+    "web"
+  ],
+  "author": "lucalhost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lhourquin/webscrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/Lhourquin/webscrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.1.0"
+  }
+}
